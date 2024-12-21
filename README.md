@@ -155,6 +155,8 @@ Now run the below systemctl command utility to restart the logrotate service and
 
 With this, you've now successfully installed and configured Unbound DNS server and configured logging via Rsyslog and Logrotate. Unbound logs will be saved to the file '/var/unbound/unbound.log'.
 
+ ![Alt text](https://raw.githubusercontent.com/sohag1192/How-to-Set-Up-a-Local-DNS-Resolver-with-Unbound-on/refs/heads/main/8-setup-logging-unbound.webp)
+
 
 
  
