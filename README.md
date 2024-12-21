@@ -58,13 +58,11 @@ Copy This Text And This and editing the ip address
 
  
     #control which clients are allowed to make (recursive) queries
-	   #access-control: 0.0.0.0/0 refuse
-   	#access-control: 0.0.0.0/0 allow
+
    	access-control: 10.0.0.0/8 allow
-   	access-control: 50.50.50.0/24 allow
    	access-control: 192.168.0.0/16 allow
    	access-control: 172.16.0.0/12 allow
-   	access-control: 103.135.132.0/23 allow
+
 
     # local zone
     local-zone: "sohag.lan." static
