@@ -156,12 +156,4 @@ With this, you've now successfully installed and configured Unbound DNS server a
 <a target="_blank" href="https://smallcounter.com/conline/1748353736/"><img alt="visitors by country counter" border="0" src="https://smallcounter.com/online/fcc.php?id=1748353736"></a>
      
 
-
-
-
- 
-
-
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fsohag1192%2FSetup-Local-DNS-Server&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
-
     
